@@ -1,0 +1,25 @@
+{
+    "name": "USDTZ Experimental Token List",
+    "logoURI": "https://raw.githubusercontent.com/m444m/usdtz-token/main/assets/usdtz.png",
+    "keywords": [
+        "USDTZ",
+        "stablecoin",
+        "experimental"
+    ],
+    "timestamp": "2026-01-22T00:00:00Z",
+    "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+    },
+    "tokens": [
+        {
+            "chainId": 56,
+            "address": "0x7B107228BD5af8BA800F6e1e94aE54A885002c77",
+            "symbol": "USDTZ",
+            "name": "USDTZ",
+            "decimals": 18,
+            "logoURI": "https://raw.githubusercontent.com/m444m/usdtz-token/main/assets/usdtz.png"
+        }
+    ]
+}
