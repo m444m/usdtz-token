@@ -1,6 +1,6 @@
 {
   "name": "USDTZ Token List",
-  "logoURI": "https://raw.githubusercontent.com/m444m/usdtz-token/main/usdtz.png",
+  "logoURI": "https://m444m.github.io/usdtz-token/usdtz.png",
   "keywords": [
     "usdtz",
     "stablecoin",
@@ -19,7 +19,7 @@
       "name": "usdtz",
       "symbol": "USDTZ",
       "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/m444m/usdtz-token/main/usdtz.png"
+      "logoURI": "https://m444m.github.io/usdtz-token/usdtz.png"
     }
   ]
 }
