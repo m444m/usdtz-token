@@ -1,0 +1,25 @@
+{
+  "name": "USDT.Z Token List",
+  "logoURI": "https://m444m.github.io/usdtz-token/usdtz.png",
+  "keywords": [
+    "usdt.z",
+    "stablecoin",
+    "experimental"
+  ],
+  "timestamp": "2026-01-23T18:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0xb802ec5c841547534979C5cEFdA29ff2fa8cc437",
+      "name": "usdt.z",
+      "symbol": "USDT.Z",
+      "decimals": 18,
+      "logoURI": "https://m444m.github.io/usdtz-token/usdtz.png"
+    }
+  ]
+}
